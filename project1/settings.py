@@ -95,9 +95,9 @@ DATABASES = {
          'ENGINE': 'djongo',
          'NAME': 'newdb',
          "CLIENT" : {
-             'host': 'mongodb+srv://apatil0018:PVtWQdyK29K7LGl6@cluster0.zvhc8is.mongodb.net/',
+             'host': 'mongodb+srv://apatil0018:CKsASf5gBAJ4bQZe@cluster0.x2njhph.mongodb.net/',
              'username': 'apatil0018',
-             'password':'PVtWQdyK29K7LGl6',
+             'password':'CKsASf5gBAJ4bQZe',
 
          }
      }
